@@ -1,2 +1,2 @@
 # Practice-Java
-Java programs that I've written for various classes
+Java programs that I've written for various classes. I've divided it up into Intro to Java and Data Structures. Within Intro to Java, I have stand-alone applications and Maven projects.
